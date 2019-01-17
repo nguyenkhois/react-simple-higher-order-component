@@ -24,6 +24,7 @@ function hoc(WrappedComponent) {
 function name(props) {
     return (
         <div>
+            {props.text}
             {props.children}
         </div>
     );
