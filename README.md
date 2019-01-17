@@ -4,8 +4,11 @@ You may to want read about these things in JavaScript before read about Higher-O
 * Composition function
 
 ## References
+React official:
 * [React - Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 * [React - Render Props](https://reactjs.org/docs/render-props.html)
+
+Others:
 * [What are Higher-Order Components in React?](https://css-tricks.com/what-are-higher-order-components-in-react/)
 * [A Quick Intro to React's Higher-Order Components](https://alligator.io/react/higher-order-components/)
 * [Understanding React Higher-Order Components by Example](https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006)
